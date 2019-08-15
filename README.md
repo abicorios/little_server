@@ -9,4 +9,8 @@ For stop the server run `stop.bat`.
 
 For configure edit `php.ini` in `little_server` dir.
 
-Also, you can run scripts by double click.
+The site dir is `public_html`.
+
+You can use html, css, js, php.
+
+Also, you can run batch-scripts by double click.
