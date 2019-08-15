@@ -7,3 +7,4 @@ powershell -ExecutionPolicy Bypass %cd%\install.ps1
 del install.ps1
 del caddy.zip
 del php.zip
+config.bat
