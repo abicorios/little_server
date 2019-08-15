@@ -14,3 +14,9 @@ The site dir is `public_html`.
 You can use html, css, js, php.
 
 Also, you can run batch-scripts by double click.
+
+# Acknowledgments
+Thank you,
+https://caddyserver.com/
+https://www.php.net/
+https://www.microsoft.com
