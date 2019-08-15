@@ -1,5 +1,5 @@
 # little_server
-The little web server for the Windows
+The little web server for the Windows. Full size is 85 MB.
 # usage
 For instalation into the current dir run `install.bat`.
 
