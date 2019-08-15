@@ -9,6 +9,4 @@ For stop the server run `stop.bat`.
 
 For configure edit `php.ini` in `little_server` dir.
 
-Script `config.bat` is running by `install.bat` automaticaly.
-
 Also, you can run scripts by double click.
