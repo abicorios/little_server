@@ -1,2 +1,4 @@
-taskkill /im caddy.exe
-taskkill /im php-cgi.exe
+@echo of
+taskkill /f /im caddy.exe
+taskkill /f /im php-cgi.exe
+echo stop is ok
